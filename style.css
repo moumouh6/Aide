@@ -78,7 +78,6 @@ body {
 }
 
 .close-btn:hover {
-    transform: rotate(90deg);
     color: red;
 }
 
@@ -189,6 +188,7 @@ body {
     border-radius: 8px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+    background: linear-gradient(to left, #342d6d, #6759CD);
 }
 
 .contact-form h2 {
